@@ -8,4 +8,6 @@ Conversion done as exercise of making a theme for StackOverflow question [VScode
 
 ## Demo
 
-![Sample dark](./images/demo-dark.png)
+![Sample](images/demo.png)
+
+This screenshot uses the extension [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
